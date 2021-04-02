@@ -1,6 +1,5 @@
 <?php
 // informações vindo de editarInterface.php
-$operacao = $_POST["operacao"];
 $id = $_POST["id"];
 $nome = $_POST["nome"];
 $telefone = $_POST["telefone"];
